@@ -5,4 +5,4 @@ $animals = array(
     'bird',
 );
 
-print_r($animals);
+echo(implode(',', $animals));
