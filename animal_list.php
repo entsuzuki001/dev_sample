@@ -3,7 +3,7 @@ $animals = array(
     'cat',
     'dog',
     'bird',
-    'monky',
+    'monkey',
 );
 
 echo(implode(',', $animals));
