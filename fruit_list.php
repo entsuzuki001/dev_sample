@@ -1,9 +1,9 @@
 <?php
 
 $fruits = array(
-    'orange',
     'apple',
     'banana',
+    'orange',
 );
 
 echo(implode(',', $fruits));
