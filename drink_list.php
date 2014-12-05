@@ -2,7 +2,7 @@
 
 $drinks = array(
     'water',
-    'cola',
+    'coffee',
     'tea',
 );
 
